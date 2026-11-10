@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HotelPMS.API/HotelPMS.API.csproj" />
+  <Project Path="HotelPMS.Client/HotelPMS.Client.csproj" />
+  <Project Path="HotelPMS.Tests/HotelPMS.Tests.csproj" Id="ab0979ae-cd80-4439-80db-eab0bcebceb2" />
+</Solution>
